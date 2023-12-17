@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AGOL-WORLD/static/css/main.e0342d3d.css",
-    "main.js": "/AGOL-WORLD/static/js/main.747c98c7.js",
+    "main.css": "/AGOL-WORLD/static/css/main.be104284.css",
+    "main.js": "/AGOL-WORLD/static/js/main.6a1bf188.js",
     "static/js/787.85f54cd8.chunk.js": "/AGOL-WORLD/static/js/787.85f54cd8.chunk.js",
     "static/media/carousle-obc.gif": "/AGOL-WORLD/static/media/carousle-obc.768abdb8c42a3a190c2f.gif",
     "static/media/About.gif": "/AGOL-WORLD/static/media/About.c85cb8c9c08f0bc2c283.gif",
@@ -33,12 +33,12 @@
     "static/media/slick.ttf": "/AGOL-WORLD/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/AGOL-WORLD/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AGOL-WORLD/index.html",
-    "main.e0342d3d.css.map": "/AGOL-WORLD/static/css/main.e0342d3d.css.map",
-    "main.747c98c7.js.map": "/AGOL-WORLD/static/js/main.747c98c7.js.map",
+    "main.be104284.css.map": "/AGOL-WORLD/static/css/main.be104284.css.map",
+    "main.6a1bf188.js.map": "/AGOL-WORLD/static/js/main.6a1bf188.js.map",
     "787.85f54cd8.chunk.js.map": "/AGOL-WORLD/static/js/787.85f54cd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0342d3d.css",
-    "static/js/main.747c98c7.js"
+    "static/css/main.be104284.css",
+    "static/js/main.6a1bf188.js"
   ]
 }
